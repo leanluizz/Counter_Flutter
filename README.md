@@ -124,7 +124,3 @@ flutter run
 ```
 
 Isso iniciará o aplicativo de contador Flutter no seu dispositivo ou emulador.
-
-## Conclusão
-
-Parabéns! Você criou seu primeiro aplicativo Flutter de contador. Agora você tem uma compreensão básica de como criar uma interface de usuário simples e interativa com Flutter. Você pode estender este aplicativo e adicionar mais recursos conforme sua familiaridade com o Flutter aumenta. Continue explorando a documentação e tutoriais do Flutter para aprofundar seus conhecimentos.
