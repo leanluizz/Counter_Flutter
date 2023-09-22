@@ -14,7 +14,7 @@ O Android Studio é uma IDE (Integrated Development Environment) popular para o 
 
 3. Abra o Android Studio após a instalação e siga o assistente de configuração inicial para instalar os componentes necessários, como o Android SDK e as ferramentas do Flutter.
 
-Passo 2: Instalando Flutter
+## Passo 2: Instalando Flutter
  ```
 git clone https://github.com/flutter/flutter.git -b stable
  ```
